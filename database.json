@@ -5182,7 +5182,7 @@
       "afk": -1,
       "afkReason": "",
       "pasangan": "",
-      "banned": true,
+      "banned": false,
       "premium": false,
       "warn": 0,
       "pc": 0,
