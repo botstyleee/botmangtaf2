@@ -32,6 +32,6 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 handler.help = ['unban']
 handler.tags = ['owner']
 handler.command = /^unban$/i
-handler.rowner.handler.mods = true
+handler.owner.handler.mods = true
 handler.fail = null
 module.exports = handler
