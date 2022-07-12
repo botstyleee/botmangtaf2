@@ -37,7 +37,7 @@ const defaultMenu = {
   before: `
 Hai, %ucapan %name! 👋
   
-*Waktu:* 
+*🕑Waktu:* 
 %wib WIB
 %wita WITA
 %wit WIT
