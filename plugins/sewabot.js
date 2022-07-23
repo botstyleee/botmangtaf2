@@ -24,9 +24,13 @@ Rp. 10.000 Pulsa Indosat
 Rp. 20.000 Dana/Ovo/Gopay
 Rp. 20.000 Pulsa Indosat
 
+4. Premium + Grup / Permanen
+Rp. 35.000 Dana/Ovo/Gopay
+Rp. 35.000 Pulsa Indosat
+
 Hemat : Grup / 7 hari
-Rp. 20.000 Dana/Ovo/Gopay
-Rp. 20.000 Pulsa Indosat
+Rp. 5.000 Dana/Ovo/Gopay
+Rp. 5.000 Pulsa Indosat
 
 wa.me/${owner[0]}
 *Bukan Bot!!!*
