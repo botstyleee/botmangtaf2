@@ -38,7 +38,7 @@ ${sortedMoney.slice(0, len).map(({ jid, money }, i) => `${i + 1}. ${participants
 • *Bank Leaderboard Top ${len}* •
 Kamu: *${usersBank.indexOf(m.sender) + 1}* dari *${usersBank.length}*
 
-${sortedBank.slice(0, len).map(({ jid, bank }, i) => `${i + 1}. ${participants.some(p => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *Money ${money}*`).join`\n`}
+${sortedBank.slice(0, len).map(({ jid, bank }, i) => `${i + 1}. ${participants.some(p => jid === p.jid) ? `(${conn.getName(jid)}) wa.me/` : '@'}${jid.split`@`[0]} *Bank ${bank}*`).join`\n`}
 `.trim()
   conn.reply(m.chat, text, m, {
     contextInfo: {
